@@ -1,0 +1,6 @@
+/var
+/vendor
+/pub/media
+/generated
+*.sql
+*.zip
